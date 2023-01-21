@@ -39,8 +39,6 @@ def create_start():
     button1.draw()
     button2.draw()
     button3.draw()
-    button4.draw()
-    button5.draw()
     button6.draw()
 
 
@@ -49,7 +47,5 @@ def set_up_closet():
     button1.undraw()
     button2.undraw()
     button3.undraw()
-    button4.undraw()
-    button5.undraw()
     button6.undraw()
     backbutton.draw()
