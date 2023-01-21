@@ -257,10 +257,8 @@ def main():
           button1.undraw()
           button2.undraw()
           button3.undraw()
-          button4.undraw()
-          button5.undraw()
           button6.undraw()         
-           
+   
           model.undraw()
 
           if random_variable.top == 'striped_shirt':
@@ -422,11 +420,7 @@ def main():
                 #   purple_skirt.draw()
                 #   print("drew")
 
-      
-
-            # if statment for purple top
-
-            #ect
+    
 
             if 10 < mouseclick.x < 150 and 10 < mouseclick.y < 75:
                 print("back")
